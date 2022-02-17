@@ -28,11 +28,11 @@
 				<key>PayloadType</key>
 				<string>com.apple.wifi.managed</string>
 				<key>PayloadUUID</key>
-				<string>d6271662-3436-4c8a-ac9f-59f74d2bc36b</string>
+				<string>9dbe5d71-52b6-4e05-a389-5575f66ce157</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 				<key>ProxyServer</key>
-				<string>192.168.31.86</string>
+				<string>192.168.50.142</string>
 				<key>ProxyServerPort</key>
 				<integer>10809</integer>
 				<key>ProxyType</key>
@@ -42,7 +42,7 @@
 			</dict>
 		</array>
 		<key>PayloadDisplayName</key>
-		<string>悟空的代理文件</string>
+		<string>hR的代理文件</string>
 		<key>PayloadIdentifier</key>
 		<string>wudeiMac.BC9F759D-DB99-4123-8605-68C1EB0DBFAF</string>
 		<key>PayloadRemovalDisallowed</key>
@@ -50,7 +50,7 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>c0812a94-9212-45a1-acd4-80ee49c7c1fa</string>
+		<string>988d620c-47a9-437d-bd24-0d6e684c6015</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 	</dict>
